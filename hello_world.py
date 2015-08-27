@@ -36,11 +36,26 @@ num_arms = 3
 
 ######Loop tests######
 n = 1
-while (n < 5):
-    print "n =", n
-    n = n + 1
-print "Loop finished"
+#while (n < 5):
+    #print "n =", n
+    #n = n + 1
+#print "Loop finished"
 
-for n in range(1, 5):
-    print "n =", n
-print "Loop finished"
+#for n in range(1, 5):
+    #print "n =", n
+#print "Loop finished"
+
+
+######Conditional tests######
+
+#prompt = raw_input("What's yo name:")
+
+#if len(prompt) < 5:
+   # print "That's too short"
+#elif len(prompt) > 5:
+   #print "That's too long!"
+#else:
+    #print "That sounds juuuust right"
+
+
+
